@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+opencv-contrib-python-headless
+numpy>=1.23.3
+regex>=2022.9.13
+roboflow>=1.1.6
+streamlit>=0.1.4
+Pillow>=9.5.0
+pytesseract >=0.3.10
